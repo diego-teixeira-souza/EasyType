@@ -1,8 +1,8 @@
 #ifndef EASYTYPE_HPP
 #define EASYTYPE_HPP
 
-#include "source/basis.hpp"
-#include "source/qualifier.hpp"
+#include "src/basis.hpp"
+#include "src/qualifier.hpp"
 
 
 
