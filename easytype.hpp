@@ -1,6 +1,6 @@
 #ifndef EASYTYPE_HPP
 #define EASYTYPE_HPP
 
-// Main file
+// easytype main file
 
 #endif
